@@ -1,5 +1,6 @@
-#NYC Yellow Taxi Trip Data from Feburary 2017¶
-Written by Michael Kamkar
+#NYC Yellow Taxi Trip Data from Feburary 2017 
+
+_Written by Michael Kamkar_
 
 The main objective of this project is to:
 
