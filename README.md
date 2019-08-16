@@ -4,10 +4,9 @@ _Written by Michael Kamkar_
 
 The main objective of this project is to:
 
-Clean a large dataset
-Manipulate the dataset
-Visualize the dataset with aggregation
-using Pyspark, Pandas, and Matplotlib.
+1. Clean a large dataset
+2. Manipulate the dataset
+3. Visualize the dataset with aggregation using Pyspark, Pandas, and Matplotlib.
 
 The data was processed through my local computer, limiting the allowable size of the dataset. Nonetheless, Pyspark helped to allow processing of a dataset on my computer which otherwise Pandas would not have allowed due to hardware constraints.
 
